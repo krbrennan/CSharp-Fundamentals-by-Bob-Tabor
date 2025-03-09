@@ -8,3 +8,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\bin\Debug\netcoreapp2.1\2_Variables.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\bin\Debug\netcoreapp2.1\2_Variables.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\bin\Debug\netcoreapp2.1\2_Variables.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\bin\Debug\netcoreapp2.1\2_Variables.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\bin\Debug\netcoreapp2.1\2_Variables.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\2_Variables\obj\Debug\netcoreapp2.1\2_Variables.genruntimeconfig.cache

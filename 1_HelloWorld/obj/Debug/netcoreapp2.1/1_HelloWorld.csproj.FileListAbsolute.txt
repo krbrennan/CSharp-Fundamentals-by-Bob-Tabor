@@ -8,3 +8,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\bin\Debug\netcoreapp2.1\1_HelloWorld.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\bin\Debug\netcoreapp2.1\1_HelloWorld.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\bin\Debug\netcoreapp2.1\1_HelloWorld.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\bin\Debug\netcoreapp2.1\1_HelloWorld.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\bin\Debug\netcoreapp2.1\1_HelloWorld.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\1_HelloWorld\obj\Debug\netcoreapp2.1\1_HelloWorld.genruntimeconfig.cache

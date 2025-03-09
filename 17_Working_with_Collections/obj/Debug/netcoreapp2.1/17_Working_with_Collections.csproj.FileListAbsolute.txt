@@ -8,3 +8,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\bin\Debug\netcoreapp2.1\17_Working_with_Collections.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\bin\Debug\netcoreapp2.1\17_Working_with_Collections.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\bin\Debug\netcoreapp2.1\17_Working_with_Collections.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\bin\Debug\netcoreapp2.1\17_Working_with_Collections.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\bin\Debug\netcoreapp2.1\17_Working_with_Collections.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\17_Working_with_Collections\obj\Debug\netcoreapp2.1\17_Working_with_Collections.genruntimeconfig.cache

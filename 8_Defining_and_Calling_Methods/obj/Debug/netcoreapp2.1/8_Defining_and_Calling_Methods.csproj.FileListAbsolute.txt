@@ -9,3 +9,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.pdb
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\bin\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\bin\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\bin\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\bin\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\bin\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\8_Defining_and_Calling_Methods\obj\Debug\netcoreapp2.1\8_Defining_and_Calling_Methods.genruntimeconfig.cache

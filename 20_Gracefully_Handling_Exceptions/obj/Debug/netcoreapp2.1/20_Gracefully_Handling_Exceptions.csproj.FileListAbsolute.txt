@@ -8,3 +8,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\bin\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\bin\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\bin\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\bin\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\bin\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\20_Gracefully_Handling_Exceptions\obj\Debug\netcoreapp2.1\20_Gracefully_Handling_Exceptions.genruntimeconfig.cache

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16_Creating_and_Adding_References_to_Assemblies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070ab12c7a7f852da37449c5393b275658a2c53b")]
 [assembly: System.Reflection.AssemblyProductAttribute("16_Creating_and_Adding_References_to_Assemblies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16_Creating_and_Adding_References_to_Assemblies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

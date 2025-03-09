@@ -8,3 +8,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\bin\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\bin\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\bin\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\bin\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\bin\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\11_Working_with_Dates_and_Times\obj\Debug\netcoreapp2.1\11_Working_with_Dates_and_Times.genruntimeconfig.cache

@@ -9,3 +9,17 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\bin\Debug\netcoreapp2.1\10_Working_with_Strings.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\bin\Debug\netcoreapp2.1\10_Working_with_Strings.runtimeconfig.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\bin\Debug\netcoreapp2.1\10_Working_with_Strings.runtimeconfig.dev.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\bin\Debug\netcoreapp2.1\10_Working_with_Strings.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\bin\Debug\netcoreapp2.1\10_Working_with_Strings.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\10_Working_with_Strings\obj\Debug\netcoreapp2.1\10_Working_with_Strings.genruntimeconfig.cache

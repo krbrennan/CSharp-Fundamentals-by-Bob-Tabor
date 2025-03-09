@@ -6,3 +6,14 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\bin\Debug\netcoreapp2.1\MyCodeLibrary.deps.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\bin\Debug\netcoreapp2.1\MyCodeLibrary.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\bin\Debug\netcoreapp2.1\MyCodeLibrary.pdb
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.sourcelink.json
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.dll
+C:\Users\Kelvin\Desktop\Programming\BobTabor C#\CSharp-Fundamentals-by-Bob-Tabor\MyCodeLibrary\obj\Debug\netcoreapp2.1\MyCodeLibrary.pdb
